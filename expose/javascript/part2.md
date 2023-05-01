@@ -17,3 +17,25 @@ C : student.greeting()
 D : student['Favorite Teacher'].name
 E : student.courseLoad[0]
 ```  
+13. a
+```
+A : '32', ints map to their tring representations 
+B : 1, since 3 is casted into an int for subtraction 3-2 = 1.
+C : 3, null maps to the value 0
+D : 3null, since 3 is a string
+E : 4, since true maps to 1.
+F : 0, since null and false both map to 0
+G : 3undefined, since 3 is a string
+H : NaN, since undefined cannot be converted into a number.
+```
+14.
+```
+A : True, 2 gets cast to int
+B : false, since the lex value for 2 should be greater than 12
+C : True, since 2 wil be cast to integer then compared
+D : False, they are not the same type
+E : false, 1 != 2 
+F : true, because both are bools
+```
+15. == is a value comparison operator whereras === is a value and type operator so both value and type must be equal.
+16. 
