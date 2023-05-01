@@ -40,4 +40,5 @@ F : true, because both are bools
 15. == is a value comparison operator whereras === is a value and type operator so both value and type must be equal.
 16. 21 5 2, check js file
 17. the result will be [2,4,6] since the function modify array loops through the array and replaces each value with value resulting from dosomething.
-18. 
+18. java script file
+19. The output should result in 1 4 3 2
